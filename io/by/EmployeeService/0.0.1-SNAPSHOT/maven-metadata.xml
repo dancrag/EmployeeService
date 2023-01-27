@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>io.by</groupId>
+  <artifactId>EmployeeService</artifactId>
+  <versioning>
+    <lastUpdated>20230125004724</lastUpdated>
+    <snapshot>
+      <timestamp>20230125.004724</timestamp>
+      <buildNumber>13</buildNumber>
+    </snapshot>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>0.0.1-20230125.004724-13</value>
+        <updated>20230125004724</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+  <version>0.0.1-SNAPSHOT</version>
+</metadata>
